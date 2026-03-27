@@ -1,0 +1,639 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.10)  16 MAR 2026 23:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex"
+(c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen149
+)) (C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+) (C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count288
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip17
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks18
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks19
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\lazyst\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count295
+) (vma.aux)
+\openout1 = `vma.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:7: LaTeX Error: Environment multiline undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 	\begin{multiline}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:8: Misplaced alignment tab character &.
+l.8 		A_0X_t &
+              = A_1X_{t-1} + A_2X_{t-2} + \cdots + \epsilon_t		\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:9: Misplaced alignment tab character &.
+l.9 		X_t &
+           = A_0^{-1}A_1X_{t-1} + A_0^{-1}A_2X_{t-2} + \cdots + A_0^{-1}\eps...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:10: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.10 		&
+        = \phi_iX_{t-1} + \phi_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:12: Misplaced alignment tab character &.
+l.12 		&
+        = A_0^{-1}\epsilon_t		\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:13: Misplaced alignment tab character &.
+l.13 		X_t &
+            = [1-\sum_{i=1}^p\phi_iL^i]^{-1} A_0^{-1}\epsilon_t		\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:14: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.14 		&
+        = A_0^{-1}\epsilon_t
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:18: Misplaced alignment tab character &.
+l.18 		&
+        \quad+ (\sum_{i=1}^p\phi_i)^3A_0^{-1}\epsilon_{t-3}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:20: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.20 		&
+        = \sum_{j=0}^\infty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Misplaced \cr.
+\math@cr@@@ ->\cr 
+                  
+l.21 	\end{multline}
+                    
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Misplaced \noalign.
+\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
+                                                  {\vskip #1\relax }
+l.21 	\end{multline}
+                    
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 	\end{multline}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Missing } inserted.
+<inserted text> 
+                }
+l.21 	\end{multline}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.21 	\end{multline}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Display math should end with $$.
+<to be read again> 
+                   \vskip 
+l.21 	\end{multline}
+                    
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Overfull \hbox (706.28448pt too wide) detected at line 21
+[]\OML/cmm/m/it/10 A[]X[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 A[]X[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 A[]X[] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 ^^O[][] X[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 A[]A[]X[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 A[]A[]X[] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 A[]^^O[][]  \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^^[]X[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^^[]X[] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 A[]^^O[][] X[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10 ^^@ [] \OML/cmm/m/it/10 ^^^[]L[]\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 A[]^^O[][] X[] \OT1/cmr/m/n/10 = [1 \OMS/cmsy/m/n/10 ^^@ [] \OML/cmm/m/it/10 ^^^[]L[]\OT1/cmr/m/n/10 ][]\OML/cmm/m/it/10 A[]^^O[][]  \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 A[]^^O[] \OT1/cmr/m/n/10 + ([] \OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 A[]^^O[] \OT1/cmr/m/n/10 + ([] \OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 A[]^^O[][]   \OT1/cmr/m/n/10 + ([] \OML/cmm/m/it/10 ^^^[]\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 A[]^^O[] \OT1/cmr/m/n/10 + [] []  = []   []
+ []
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Extra }, or forgotten \endgroup.
+\math@cr@@ ...th@cr@@@ \noalign {\vskip #1\relax }
+                                                  
+l.21 	\end{multline}
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Extra }, or forgotten \endgroup.
+<recently read> \egroup 
+                        
+l.21 	\end{multline}
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: LaTeX Error: \begin{equation} on input line 6 ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\end{multline}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 	\end{multline}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:21: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.21 	\end{multline}
+                    
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:22: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{equation}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:22: LaTeX Error: \begin{document} ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{equation}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:22: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.22 \end{equation}
+                   
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:22: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.22 \end{equation}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+Runaway argument?
+ 
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:25: Paragraph ended before \align* was complete.
+<to be read again> 
+                   \par 
+l.25 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:25: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.25 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:25: Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.25 
+     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:27: Missing $ inserted.
+<inserted text> 
+                $
+l.27     A_
+           0X_t &= A_1X_{t-1} + A_2X_{t-2} + \cdots + \epsilon_t \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:27: Misplaced alignment tab character &.
+l.27     A_0X_t &
+                 = A_1X_{t-1} + A_2X_{t-2} + \cdots + \epsilon_t \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:28: Misplaced alignment tab character &.
+l.28     X_t &
+              = A_0^{-1}A_1X_{t-1} + A_0^{-1}A_2X_{t-2} + \cdots + A_0^{-1}\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:29: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.29     &
+          = \phi_iX_{t-1} + \phi_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32     X_
+           t\cdot (1-\sum_{i=1}^p\phi_iL^i) &= A_0^{-1}\epsilon_t \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:32: Misplaced alignment tab character &.
+l.32     X_t\cdot (1-\sum_{i=1}^p\phi_iL^i) &
+                                             = A_0^{-1}\epsilon_t \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:33: Misplaced alignment tab character &.
+l.33     X_t &
+              = [1-\sum_{i=1}^p\phi_iL^i]^{-1} A_0^{-1}\epsilon_t \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:34: Missing $ inserted.
+<inserted text> 
+                $
+l.34 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:36: Misplaced alignment tab character &.
+l.36     &
+          = A_0^{-1}\epsilon_t + (\sum_{i=1}^p\phi_i)A_0^{-1} \epsilon_{t-1}...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:36: Missing $ inserted.
+<inserted text> 
+                $
+l.36     &= A_
+              0^{-1}\epsilon_t + (\sum_{i=1}^p\phi_i)A_0^{-1} \epsilon_{t-1}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:37: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.37     &
+          \quad+ (\sum_{i=1}^p\phi_i)^3A_0^{-1}\epsilon_{t-3} + \cdots \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:38: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.38     &
+          = \sum_{j=0}^\infty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:39: Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Misplaced \cr.
+\math@cr@@@ ->\cr 
+                  
+l.40 \end{align*}
+                 
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Misplaced \noalign.
+\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
+                                                  {\vskip #1\relax }
+l.40 \end{align*}
+                 
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Misplaced \noalign.
+\black@ #1->\noalign 
+                     {\ifdim #1>\displaywidth \dimen@ \prevdepth \nointerlin...
+l.40 \end{align*}
+                 
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Extra }, or forgotten \endgroup.
+\endalign ->\math@cr \black@ \totwidth@ \egroup 
+                                                \ifingather@ \restorealignst...
+l.40 \end{align*}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Missing $ inserted.
+<inserted text> 
+                $
+l.40 \end{align*}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/lazyst/Files/ucl/8 - TSE/sandbox/vma.tex:40: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.40 \end{align*}
+                 
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[1
+
+{C:/Users/lazyst/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (vma.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1151 strings out of 467867
+ 17673 string characters out of 5417850
+ 441759 words of memory out of 5000000
+ 30097 multiletter control sequences out of 15000+600000
+ 628175 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,5n,65p,243b,132s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lazyst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on vma.pdf (1 page, 65967 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

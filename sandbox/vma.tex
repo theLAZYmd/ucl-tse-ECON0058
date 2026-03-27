@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{equation}
+	\begin{multiline}
+		A_0X_t &= A_1X_{t-1} + A_2X_{t-2} + \cdots + \epsilon_t		\\
+		X_t &= A_0^{-1}A_1X_{t-1} + A_0^{-1}A_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t		\\
+		&= \phi_iX_{t-1} + \phi_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t	\\
+		X_t\cdot (1-\sum_{i=1}^p\phi_iL^i)
+		&= A_0^{-1}\epsilon_t		\\
+		X_t &= [1-\sum_{i=1}^p\phi_iL^i]^{-1} A_0^{-1}\epsilon_t		\\
+		&= A_0^{-1}\epsilon_t
+		+ (\sum_{i=1}^p\phi_i)A_0^{-1} \epsilon_{t-1}
+		+ (\sum_{i=1}^p\phi_i)^2A_0^{-1}\epsilon_{t-2}				\\
+		\notag
+		&\quad+ (\sum_{i=1}^p\phi_i)^3A_0^{-1}\epsilon_{t-3}
+		+ \cdots			\\
+		&= \sum_{j=0}^\infty
+	\end{multline}
+\end{equation}
+
+\begin{align*}
+
+    % (%) Initial autoregressive definitions
+    A_0X_t &= A_1X_{t-1} + A_2X_{t-2} + \cdots + \epsilon_t \\
+    X_t &= A_0^{-1}A_1X_{t-1} + A_0^{-1}A_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t \\
+    &= \phi_iX_{t-1} + \phi_2X_{t-2} + \cdots + A_0^{-1}\epsilon_t \\
+
+    % (%) Rearrangement and inversion
+    X_t\cdot (1-\sum_{i=1}^p\phi_iL^i) &= A_0^{-1}\epsilon_t \\
+    X_t &= [1-\sum_{i=1}^p\phi_iL^i]^{-1} A_0^{-1}\epsilon_t \\
+
+    % (%) Moving average expansion
+    &= A_0^{-1}\epsilon_t + (\sum_{i=1}^p\phi_i)A_0^{-1} \epsilon_{t-1} + (\sum_{i=1}^p\phi_i)^2A_0^{-1}\epsilon_{t-2} \\
+    &\quad+ (\sum_{i=1}^p\phi_i)^3A_0^{-1}\epsilon_{t-3} + \cdots \\
+    &= \sum_{j=0}^\infty
+
+\end{align*}
+
+\end{document}
